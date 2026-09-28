@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Exported data can contain production data
+output/
+
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,5 @@
+# One Honeycomb dataset slug per line. Copy to datasets.txt.
+# Use __all__ for environment-wide triggers.
+my-service
+another-service
+__all__
